@@ -1,0 +1,27 @@
+.site-background {
+  background-image: url("http://jointherepublik.com/wp-content/uploads/2013/07/front-21.jpg");
+  background-size: cover;
+  height: 500px;
+}
+
+.ui.borderless.topmenu.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.ui.borderless.secondmenu.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.right.floated.center.aligned.hbtitle.column {
+  padding-top: 300px;
+}
+
+.footer-background {
+  background-color: #dddddd;
+  color: black;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
